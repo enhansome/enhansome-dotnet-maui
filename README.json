@@ -1,44 +1,9 @@
 {
-  "items": [
-    {
-      "description": "",
-      "items": [],
-      "title": "Books"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Samples"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Workshops"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Tools"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Blazor"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "UI"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Plugins"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T20:01:44.145Z",
+    "last_updated": "2026-08-19T12:26:13.428Z",
     "original_repository": "jsuarezruiz/awesome-dotnet-maui",
+    "original_repository_id": 356544156,
     "original_repository_sha": "9aa7992fb6fc5f8923eba676637a2c8b00ba8c45",
     "enhanced_repository": "enhansome/enhansome-dotnet-maui",
     "enhanced_repository_description": null,
