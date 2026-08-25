@@ -15,7 +15,7 @@
             "last_commit": "2026-08-11T19:39:56Z",
             "owner": "dotnet",
             "repo": "maui-samples",
-            "stars": 3657
+            "stars": 3656
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-11T19:39:56Z",
             "owner": "dotnet",
             "repo": "maui-samples",
-            "stars": 3657
+            "stars": 3656
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-11T19:39:56Z",
             "owner": "dotnet",
             "repo": "maui-samples",
-            "stars": 3657
+            "stars": 3656
           }
         },
         {
@@ -300,7 +300,7 @@
             "last_commit": "2022-12-28T06:45:31Z",
             "owner": "naweed",
             "repo": "MauiTubePlayer",
-            "stars": 371
+            "stars": 372
           }
         },
         {
@@ -420,7 +420,7 @@
             "last_commit": "2022-12-28T06:45:31Z",
             "owner": "naweed",
             "repo": "MauiTubePlayer",
-            "stars": 371
+            "stars": 372
           }
         },
         {
@@ -435,7 +435,7 @@
             "last_commit": "2022-12-28T06:45:31Z",
             "owner": "naweed",
             "repo": "MauiTubePlayer",
-            "stars": 371
+            "stars": 372
           }
         },
         {
@@ -450,7 +450,7 @@
             "last_commit": "2022-12-28T06:45:31Z",
             "owner": "naweed",
             "repo": "MauiTubePlayer",
-            "stars": 371
+            "stars": 372
           }
         },
         {
@@ -1245,7 +1245,7 @@
             "archived": false,
             "id": 71365344,
             "language": "C#",
-            "last_commit": "2026-08-24T17:28:55Z",
+            "last_commit": "2026-08-25T05:45:57Z",
             "owner": "bitfoundation",
             "repo": "bitplatform",
             "stars": 1370
@@ -1260,7 +1260,7 @@
             "archived": false,
             "id": 71365344,
             "language": "C#",
-            "last_commit": "2026-08-24T17:28:55Z",
+            "last_commit": "2026-08-25T05:45:57Z",
             "owner": "bitfoundation",
             "repo": "bitplatform",
             "stars": 1370
@@ -1275,7 +1275,7 @@
             "archived": false,
             "id": 71365344,
             "language": "C#",
-            "last_commit": "2026-08-24T17:28:55Z",
+            "last_commit": "2026-08-25T05:45:57Z",
             "owner": "bitfoundation",
             "repo": "bitplatform",
             "stars": 1370
@@ -2439,7 +2439,7 @@
             "last_commit": "2026-07-20T18:51:21Z",
             "owner": "Live-Charts",
             "repo": "LiveCharts2",
-            "stars": 5396
+            "stars": 5405
           }
         },
         {
@@ -2454,7 +2454,7 @@
             "last_commit": "2026-07-20T18:51:21Z",
             "owner": "Live-Charts",
             "repo": "LiveCharts2",
-            "stars": 5396
+            "stars": 5405
           }
         },
         {
@@ -2469,7 +2469,7 @@
             "last_commit": "2026-07-20T18:51:21Z",
             "owner": "Live-Charts",
             "repo": "LiveCharts2",
-            "stars": 5396
+            "stars": 5405
           }
         },
         {
@@ -3471,7 +3471,7 @@
             "archived": false,
             "id": 744483808,
             "language": "C#",
-            "last_commit": "2026-08-24T15:08:53Z",
+            "last_commit": "2026-08-24T23:27:58Z",
             "owner": "nalu-development",
             "repo": "nalu",
             "stars": 241
@@ -3486,7 +3486,7 @@
             "archived": false,
             "id": 744483808,
             "language": "C#",
-            "last_commit": "2026-08-24T15:08:53Z",
+            "last_commit": "2026-08-24T23:27:58Z",
             "owner": "nalu-development",
             "repo": "nalu",
             "stars": 241
@@ -3501,7 +3501,7 @@
             "archived": false,
             "id": 744483808,
             "language": "C#",
-            "last_commit": "2026-08-24T15:08:53Z",
+            "last_commit": "2026-08-24T23:27:58Z",
             "owner": "nalu-development",
             "repo": "nalu",
             "stars": 241
@@ -4710,7 +4710,7 @@
             "last_commit": "2026-07-28T17:37:58Z",
             "owner": "afriscic",
             "repo": "BarcodeScanning.Native.Maui",
-            "stars": 343
+            "stars": 345
           }
         },
         {
@@ -4725,7 +4725,7 @@
             "last_commit": "2026-07-28T17:37:58Z",
             "owner": "afriscic",
             "repo": "BarcodeScanning.Native.Maui",
-            "stars": 343
+            "stars": 345
           }
         },
         {
@@ -4740,7 +4740,7 @@
             "last_commit": "2026-07-28T17:37:58Z",
             "owner": "afriscic",
             "repo": "BarcodeScanning.Native.Maui",
-            "stars": 343
+            "stars": 345
           }
         },
         {
@@ -6522,7 +6522,7 @@
             "archived": false,
             "id": 133374092,
             "language": "C#",
-            "last_commit": "2026-08-24T10:32:44Z",
+            "last_commit": "2026-08-25T04:58:23Z",
             "owner": "getsentry",
             "repo": "sentry-dotnet",
             "stars": 770
@@ -6537,7 +6537,7 @@
             "archived": false,
             "id": 133374092,
             "language": "C#",
-            "last_commit": "2026-08-24T10:32:44Z",
+            "last_commit": "2026-08-25T04:58:23Z",
             "owner": "getsentry",
             "repo": "sentry-dotnet",
             "stars": 770
@@ -6672,10 +6672,10 @@
             "archived": false,
             "id": 52293126,
             "language": "C#",
-            "last_commit": "2026-08-24T19:47:43Z",
+            "last_commit": "2026-08-25T03:37:32Z",
             "owner": "mono",
             "repo": "SkiaSharp",
-            "stars": 5553
+            "stars": 5554
           }
         },
         {
@@ -6687,10 +6687,10 @@
             "archived": false,
             "id": 52293126,
             "language": "C#",
-            "last_commit": "2026-08-24T19:47:43Z",
+            "last_commit": "2026-08-25T03:37:32Z",
             "owner": "mono",
             "repo": "SkiaSharp",
-            "stars": 5553
+            "stars": 5554
           }
         },
         {
@@ -6702,10 +6702,10 @@
             "archived": false,
             "id": 52293126,
             "language": "C#",
-            "last_commit": "2026-08-24T19:47:43Z",
+            "last_commit": "2026-08-25T03:37:32Z",
             "owner": "mono",
             "repo": "SkiaSharp",
-            "stars": 5553
+            "stars": 5554
           }
         },
         {
@@ -6855,7 +6855,7 @@
             "last_commit": "2026-08-14T13:05:24Z",
             "owner": "Redth",
             "repo": "ZXing.Net.Maui",
-            "stars": 575
+            "stars": 576
           }
         },
         {
@@ -6870,7 +6870,7 @@
             "last_commit": "2026-08-14T13:05:24Z",
             "owner": "Redth",
             "repo": "ZXing.Net.Maui",
-            "stars": 575
+            "stars": 576
           }
         },
         {
@@ -6885,7 +6885,7 @@
             "last_commit": "2026-08-14T13:05:24Z",
             "owner": "Redth",
             "repo": "ZXing.Net.Maui",
-            "stars": 575
+            "stars": 576
           }
         }
       ],
@@ -6893,7 +6893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T20:12:36.403Z",
+    "last_updated": "2026-08-25T05:55:14.045Z",
     "original_repository": "jsuarezruiz/awesome-dotnet-maui",
     "original_repository_id": 356544156,
     "original_repository_sha": "9aa7992fb6fc5f8923eba676637a2c8b00ba8c45",
