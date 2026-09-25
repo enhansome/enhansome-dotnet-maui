@@ -19,7 +19,7 @@
             "open_issues": 96,
             "owner": "dotnet",
             "repo": "maui-samples",
-            "stars": 3659,
+            "stars": 3658,
             "topics": [
               "android",
               "dotnet",
@@ -51,7 +51,7 @@
             "open_issues": 96,
             "owner": "dotnet",
             "repo": "maui-samples",
-            "stars": 3659,
+            "stars": 3658,
             "topics": [
               "android",
               "dotnet",
@@ -83,7 +83,7 @@
             "open_issues": 96,
             "owner": "dotnet",
             "repo": "maui-samples",
-            "stars": 3659,
+            "stars": 3658,
             "topics": [
               "android",
               "dotnet",
@@ -913,7 +913,7 @@
             "open_issues": 203,
             "owner": "CommunityToolkit",
             "repo": "Maui",
-            "stars": 2704,
+            "stars": 2703,
             "topics": [
               "android",
               "desktop",
@@ -1724,7 +1724,7 @@
             "open_issues": 89,
             "owner": "Redth",
             "repo": "dotnet-maui-check",
-            "stars": 491,
+            "stars": 490,
             "topics": [
               "hacktoberfest"
             ]
@@ -1747,7 +1747,7 @@
             "open_issues": 89,
             "owner": "Redth",
             "repo": "dotnet-maui-check",
-            "stars": 491,
+            "stars": 490,
             "topics": [
               "hacktoberfest"
             ]
@@ -1770,7 +1770,7 @@
             "open_issues": 89,
             "owner": "Redth",
             "repo": "dotnet-maui-check",
-            "stars": 491,
+            "stars": 490,
             "topics": [
               "hacktoberfest"
             ]
@@ -1793,7 +1793,7 @@
             "open_issues": 9,
             "owner": "Redth",
             "repo": "Maui.UITesting",
-            "stars": 105,
+            "stars": 104,
             "topics": [
               "hacktoberfest",
               "testing"
@@ -1817,7 +1817,7 @@
             "open_issues": 9,
             "owner": "Redth",
             "repo": "Maui.UITesting",
-            "stars": 105,
+            "stars": 104,
             "topics": [
               "hacktoberfest",
               "testing"
@@ -1841,7 +1841,7 @@
             "open_issues": 9,
             "owner": "Redth",
             "repo": "Maui.UITesting",
-            "stars": 105,
+            "stars": 104,
             "topics": [
               "hacktoberfest",
               "testing"
@@ -2008,7 +2008,7 @@
             "id": 833525364,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-24T20:01:07Z",
+            "last_commit": "2026-09-25T17:22:15Z",
             "open_issues": 4,
             "owner": "GMPrakhar",
             "repo": "MAUI-Designer",
@@ -2029,7 +2029,7 @@
             "id": 833525364,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-24T20:01:07Z",
+            "last_commit": "2026-09-25T17:22:15Z",
             "open_issues": 4,
             "owner": "GMPrakhar",
             "repo": "MAUI-Designer",
@@ -2050,7 +2050,7 @@
             "id": 833525364,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-24T20:01:07Z",
+            "last_commit": "2026-09-25T17:22:15Z",
             "open_issues": 4,
             "owner": "GMPrakhar",
             "repo": "MAUI-Designer",
@@ -2075,7 +2075,7 @@
             "open_issues": 0,
             "owner": "AdamEssenmacher",
             "repo": "MemoryToolkit.Maui",
-            "stars": 352,
+            "stars": 351,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:13.294Z"
@@ -2096,7 +2096,7 @@
             "open_issues": 0,
             "owner": "AdamEssenmacher",
             "repo": "MemoryToolkit.Maui",
-            "stars": 352,
+            "stars": 351,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:13.294Z"
@@ -2194,8 +2194,8 @@
             "id": 71365344,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-24T22:34:39Z",
-            "open_issues": 68,
+            "last_commit": "2026-09-25T12:00:07Z",
+            "open_issues": 86,
             "owner": "bitfoundation",
             "repo": "bitplatform",
             "stars": 1375,
@@ -2228,8 +2228,8 @@
             "id": 71365344,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-24T22:34:39Z",
-            "open_issues": 68,
+            "last_commit": "2026-09-25T12:00:07Z",
+            "open_issues": 86,
             "owner": "bitfoundation",
             "repo": "bitplatform",
             "stars": 1375,
@@ -2262,8 +2262,8 @@
             "id": 71365344,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-24T22:34:39Z",
-            "open_issues": 68,
+            "last_commit": "2026-09-25T12:00:07Z",
+            "open_issues": 86,
             "owner": "bitfoundation",
             "repo": "bitplatform",
             "stars": 1375,
@@ -2609,7 +2609,7 @@
             "open_issues": 32,
             "owner": "radzenhq",
             "repo": "radzen-blazor",
-            "stars": 4354,
+            "stars": 4353,
             "topics": [
               "asp-net-core",
               "blazor",
@@ -2651,7 +2651,7 @@
             "open_issues": 32,
             "owner": "radzenhq",
             "repo": "radzen-blazor",
-            "stars": 4354,
+            "stars": 4353,
             "topics": [
               "asp-net-core",
               "blazor",
@@ -2693,7 +2693,7 @@
             "open_issues": 32,
             "owner": "radzenhq",
             "repo": "radzen-blazor",
-            "stars": 4354,
+            "stars": 4353,
             "topics": [
               "asp-net-core",
               "blazor",
@@ -2855,7 +2855,7 @@
             "open_issues": 203,
             "owner": "CommunityToolkit",
             "repo": "Maui",
-            "stars": 2704,
+            "stars": 2703,
             "topics": [
               "android",
               "desktop",
@@ -2889,7 +2889,7 @@
             "open_issues": 203,
             "owner": "CommunityToolkit",
             "repo": "Maui",
-            "stars": 2704,
+            "stars": 2703,
             "topics": [
               "android",
               "desktop",
@@ -2923,7 +2923,7 @@
             "open_issues": 203,
             "owner": "CommunityToolkit",
             "repo": "Maui",
-            "stars": 2704,
+            "stars": 2703,
             "topics": [
               "android",
               "desktop",
@@ -3616,7 +3616,7 @@
             "id": 751736600,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-24T16:20:04Z",
+            "last_commit": "2026-09-25T15:48:13Z",
             "open_issues": 9,
             "owner": "DrawnUi",
             "repo": "DrawnUi.Net",
@@ -3649,7 +3649,7 @@
             "id": 751736600,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-24T16:20:04Z",
+            "last_commit": "2026-09-25T15:48:13Z",
             "open_issues": 9,
             "owner": "DrawnUi",
             "repo": "DrawnUi.Net",
@@ -3682,7 +3682,7 @@
             "id": 751736600,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-24T16:20:04Z",
+            "last_commit": "2026-09-25T15:48:13Z",
             "open_issues": 9,
             "owner": "DrawnUi",
             "repo": "DrawnUi.Net",
@@ -4262,7 +4262,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-08-15T13:43:49Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "0xc3u",
             "repo": "Indiko.Maui.Controls.Markdown",
             "stars": 83,
@@ -4295,7 +4295,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-08-15T13:43:49Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "0xc3u",
             "repo": "Indiko.Maui.Controls.Markdown",
             "stars": 83,
@@ -4328,7 +4328,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-08-15T13:43:49Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "0xc3u",
             "repo": "Indiko.Maui.Controls.Markdown",
             "stars": 83,
@@ -4601,7 +4601,7 @@
             "open_issues": 163,
             "owner": "Mapsui",
             "repo": "Mapsui",
-            "stars": 1571,
+            "stars": 1572,
             "topics": [
               "avalonia",
               "blazor",
@@ -4638,7 +4638,7 @@
             "open_issues": 163,
             "owner": "Mapsui",
             "repo": "Mapsui",
-            "stars": 1571,
+            "stars": 1572,
             "topics": [
               "avalonia",
               "blazor",
@@ -4675,7 +4675,7 @@
             "open_issues": 10,
             "owner": "yiszza",
             "repo": "mdc-maui",
-            "stars": 585,
+            "stars": 584,
             "topics": [
               "material",
               "maui"
@@ -4699,7 +4699,7 @@
             "open_issues": 10,
             "owner": "yiszza",
             "repo": "mdc-maui",
-            "stars": 585,
+            "stars": 584,
             "topics": [
               "material",
               "maui"
@@ -4723,7 +4723,7 @@
             "open_issues": 10,
             "owner": "yiszza",
             "repo": "mdc-maui",
-            "stars": 585,
+            "stars": 584,
             "topics": [
               "material",
               "maui"
@@ -5253,7 +5253,7 @@
             "open_issues": 4,
             "owner": "CommunityToolkit",
             "repo": "Maui.Markup",
-            "stars": 597,
+            "stars": 596,
             "topics": [
               "communitytoolkit",
               "csharp",
@@ -5284,7 +5284,7 @@
             "open_issues": 4,
             "owner": "CommunityToolkit",
             "repo": "Maui.Markup",
-            "stars": 597,
+            "stars": 596,
             "topics": [
               "communitytoolkit",
               "csharp",
@@ -5765,7 +5765,7 @@
             "open_issues": 9,
             "owner": "Redth",
             "repo": "Maui.UITesting",
-            "stars": 105,
+            "stars": 104,
             "topics": [
               "hacktoberfest",
               "testing"
@@ -5789,7 +5789,7 @@
             "open_issues": 9,
             "owner": "Redth",
             "repo": "Maui.UITesting",
-            "stars": 105,
+            "stars": 104,
             "topics": [
               "hacktoberfest",
               "testing"
@@ -5876,7 +5876,7 @@
             "open_issues": 97,
             "owner": "dotnet",
             "repo": "Microsoft.Maui.Graphics",
-            "stars": 684,
+            "stars": 683,
             "topics": [
               "csharp",
               "skiasharp",
@@ -5907,7 +5907,7 @@
             "open_issues": 97,
             "owner": "dotnet",
             "repo": "Microsoft.Maui.Graphics",
-            "stars": 684,
+            "stars": 683,
             "topics": [
               "csharp",
               "skiasharp",
@@ -5938,7 +5938,7 @@
             "open_issues": 30,
             "owner": "dotnet",
             "repo": "Microsoft.Maui.Graphics.Controls",
-            "stars": 668,
+            "stars": 667,
             "topics": [
               "controls",
               "cupertino",
@@ -5970,7 +5970,7 @@
             "open_issues": 30,
             "owner": "dotnet",
             "repo": "Microsoft.Maui.Graphics.Controls",
-            "stars": 668,
+            "stars": 667,
             "topics": [
               "controls",
               "cupertino",
@@ -6002,7 +6002,7 @@
             "open_issues": 30,
             "owner": "dotnet",
             "repo": "Microsoft.Maui.Graphics.Controls",
-            "stars": 668,
+            "stars": 667,
             "topics": [
               "controls",
               "cupertino",
@@ -7395,7 +7395,7 @@
             "open_issues": 154,
             "owner": "enisn",
             "repo": "UraniumUI",
-            "stars": 1472,
+            "stars": 1471,
             "topics": [
               "dotnet",
               "framework",
@@ -7423,7 +7423,7 @@
             "open_issues": 154,
             "owner": "enisn",
             "repo": "UraniumUI",
-            "stars": 1472,
+            "stars": 1471,
             "topics": [
               "dotnet",
               "framework",
@@ -7451,7 +7451,7 @@
             "open_issues": 154,
             "owner": "enisn",
             "repo": "UraniumUI",
-            "stars": 1472,
+            "stars": 1471,
             "topics": [
               "dotnet",
               "framework",
@@ -7809,7 +7809,7 @@
             "open_issues": 16,
             "owner": "syncfusion",
             "repo": "maui-toolkit",
-            "stars": 746,
+            "stars": 745,
             "topics": [
               "android",
               "desktop",
@@ -7842,7 +7842,7 @@
             "open_issues": 16,
             "owner": "syncfusion",
             "repo": "maui-toolkit",
-            "stars": 746,
+            "stars": 745,
             "topics": [
               "android",
               "desktop",
@@ -7875,7 +7875,7 @@
             "open_issues": 16,
             "owner": "syncfusion",
             "repo": "maui-toolkit",
-            "stars": 746,
+            "stars": 745,
             "topics": [
               "android",
               "desktop",
@@ -7914,7 +7914,7 @@
             "open_issues": 215,
             "owner": "CommunityToolkit",
             "repo": "dotnet",
-            "stars": 3758,
+            "stars": 3757,
             "topics": [
               "csharp",
               "dotnet",
@@ -7946,7 +7946,7 @@
             "open_issues": 215,
             "owner": "CommunityToolkit",
             "repo": "dotnet",
-            "stars": 3758,
+            "stars": 3757,
             "topics": [
               "csharp",
               "dotnet",
@@ -7978,7 +7978,7 @@
             "open_issues": 215,
             "owner": "CommunityToolkit",
             "repo": "dotnet",
-            "stars": 3758,
+            "stars": 3757,
             "topics": [
               "csharp",
               "dotnet",
@@ -8010,7 +8010,7 @@
             "open_issues": 203,
             "owner": "CommunityToolkit",
             "repo": "Maui",
-            "stars": 2704,
+            "stars": 2703,
             "topics": [
               "android",
               "desktop",
@@ -8044,7 +8044,7 @@
             "open_issues": 203,
             "owner": "CommunityToolkit",
             "repo": "Maui",
-            "stars": 2704,
+            "stars": 2703,
             "topics": [
               "android",
               "desktop",
@@ -8078,7 +8078,7 @@
             "open_issues": 203,
             "owner": "CommunityToolkit",
             "repo": "Maui",
-            "stars": 2704,
+            "stars": 2703,
             "topics": [
               "android",
               "desktop",
@@ -8112,7 +8112,7 @@
             "open_issues": 4,
             "owner": "CommunityToolkit",
             "repo": "Maui.Markup",
-            "stars": 597,
+            "stars": 596,
             "topics": [
               "communitytoolkit",
               "csharp",
@@ -8143,7 +8143,7 @@
             "open_issues": 4,
             "owner": "CommunityToolkit",
             "repo": "Maui.Markup",
-            "stars": 597,
+            "stars": 596,
             "topics": [
               "communitytoolkit",
               "csharp",
@@ -8174,7 +8174,7 @@
             "open_issues": 4,
             "owner": "CommunityToolkit",
             "repo": "Maui.Markup",
-            "stars": 597,
+            "stars": 596,
             "topics": [
               "communitytoolkit",
               "csharp",
@@ -9368,7 +9368,7 @@
             "open_issues": 5,
             "owner": "adospace",
             "repo": "reactorui-maui",
-            "stars": 874,
+            "stars": 873,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:13.294Z"
@@ -9389,7 +9389,7 @@
             "open_issues": 5,
             "owner": "adospace",
             "repo": "reactorui-maui",
-            "stars": 874,
+            "stars": 873,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:13.294Z"
@@ -9410,7 +9410,7 @@
             "open_issues": 5,
             "owner": "adospace",
             "repo": "reactorui-maui",
-            "stars": 874,
+            "stars": 873,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:13.294Z"
@@ -9889,11 +9889,11 @@
             "id": 32012751,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-24T21:13:16Z",
-            "open_issues": 19,
+            "last_commit": "2026-09-25T22:45:06Z",
+            "open_issues": 14,
             "owner": "kean",
             "repo": "Nuke",
-            "stars": 8672,
+            "stars": 8673,
             "topics": [
               "cache",
               "gif",
@@ -10990,7 +10990,7 @@
             "open_issues": 2,
             "owner": "FabriBertani",
             "repo": "Plugin.Maui.ScreenSecurity",
-            "stars": 215,
+            "stars": 216,
             "topics": [
               "android",
               "ios",
@@ -11022,7 +11022,7 @@
             "open_issues": 2,
             "owner": "FabriBertani",
             "repo": "Plugin.Maui.ScreenSecurity",
-            "stars": 215,
+            "stars": 216,
             "topics": [
               "android",
               "ios",
@@ -11265,7 +11265,7 @@
             "open_issues": 26,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6851,
+            "stars": 6852,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -11295,7 +11295,7 @@
             "open_issues": 26,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6851,
+            "stars": 6852,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -11325,7 +11325,7 @@
             "open_issues": 26,
             "owner": "PrismLibrary",
             "repo": "Prism",
-            "stars": 6851,
+            "stars": 6852,
             "topics": [
               "c-sharp",
               "hacktoberfest",
@@ -11447,11 +11447,11 @@
             "id": 133374092,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-24T21:18:02Z",
-            "open_issues": 321,
+            "last_commit": "2026-09-25T11:07:15Z",
+            "open_issues": 322,
             "owner": "getsentry",
             "repo": "sentry-dotnet",
-            "stars": 771,
+            "stars": 769,
             "topics": [
               "crash-reporting",
               "dotnet",
@@ -11477,11 +11477,11 @@
             "id": 133374092,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-24T21:18:02Z",
-            "open_issues": 321,
+            "last_commit": "2026-09-25T11:07:15Z",
+            "open_issues": 322,
             "owner": "getsentry",
             "repo": "sentry-dotnet",
-            "stars": 771,
+            "stars": 769,
             "topics": [
               "crash-reporting",
               "dotnet",
@@ -11574,7 +11574,7 @@
             "open_issues": 0,
             "owner": "shinyorg",
             "repo": "shiny",
-            "stars": 1582,
+            "stars": 1583,
             "topics": [
               "android",
               "blazor",
@@ -11607,7 +11607,7 @@
             "open_issues": 0,
             "owner": "shinyorg",
             "repo": "shiny",
-            "stars": 1582,
+            "stars": 1583,
             "topics": [
               "android",
               "blazor",
@@ -11717,11 +11717,11 @@
             "id": 52293126,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-24T22:18:20Z",
-            "open_issues": 893,
+            "last_commit": "2026-09-25T18:58:31Z",
+            "open_issues": 894,
             "owner": "mono",
             "repo": "SkiaSharp",
-            "stars": 5578,
+            "stars": 5579,
             "topics": [
               "android",
               "cross-platform",
@@ -11751,11 +11751,11 @@
             "id": 52293126,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-24T22:18:20Z",
-            "open_issues": 893,
+            "last_commit": "2026-09-25T18:58:31Z",
+            "open_issues": 894,
             "owner": "mono",
             "repo": "SkiaSharp",
-            "stars": 5578,
+            "stars": 5579,
             "topics": [
               "android",
               "cross-platform",
@@ -11785,11 +11785,11 @@
             "id": 52293126,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-24T22:18:20Z",
-            "open_issues": 893,
+            "last_commit": "2026-09-25T18:58:31Z",
+            "open_issues": 894,
             "owner": "mono",
             "repo": "SkiaSharp",
-            "stars": 5578,
+            "stars": 5579,
             "topics": [
               "android",
               "cross-platform",
@@ -12166,7 +12166,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T22:44:32.972Z",
+    "last_updated": "2026-09-25T22:50:35.747Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome .NET MAUI libraries and resources.",
